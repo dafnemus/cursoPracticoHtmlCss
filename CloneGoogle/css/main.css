@@ -5,9 +5,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-a, button {
+a {
     text-decoration: none;
     cursor: pointer;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 header {
@@ -126,10 +130,10 @@ main .main-buttons button {
     border-radius: 5px;
     padding: 0 15px;
     margin-right: 15px;
+    cursor: pointer;
 }
 
 main .main-buttons button:hover {
     border: 1px solid #c6c6c6;
-    box-shadow: 0 1px 1px #9c9e9e;
-    
+    box-shadow: 0 1px 1px #9c9e9e; 
 }
