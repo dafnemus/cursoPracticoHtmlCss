@@ -8,8 +8,8 @@ body {
     justify-content: flex-end;
 }
 a {
-    text-decoration-color: #3c4043;
     text-decoration: none;
+    color: #3c4043;
 }
 
 a:hover {
