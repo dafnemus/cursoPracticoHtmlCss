@@ -3,7 +3,13 @@
     display: flex;
     justify-content: flex-end;
 }
+a {
+    text-decoration: none;
+}
 
+a:hover {
+    text-decoration: underline;
+}
 .item-nav {
     padding: 8px;
 }
