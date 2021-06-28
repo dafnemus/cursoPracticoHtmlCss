@@ -15,3 +15,18 @@
     align-items: center;
     padding-top: 109px;
 }
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 20px;
+    width: 96%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item-footer {
+    padding: 15px;
+    font-size: 16px;
+}
