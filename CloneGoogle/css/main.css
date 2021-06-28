@@ -42,3 +42,8 @@ nav .navbar .menu-icon {
     width: 25px;
     height: 25px;
 }
+
+nav .navbar img {
+    border-radius: 50%;
+    margin-left: 10px;
+}
